@@ -1,0 +1,109 @@
+a{
+    color: black !important;
+}
+
+.monter-texte{
+    margin-top: 0px !important;
+    padding-top: 0px !important;
+}
+
+
+.bg-gray{
+    background-color: rgb(241, 240, 240);   
+}
+
+.flexible{
+    width: 33%;
+    padding-left: 0px;
+}
+.flexible:hover{
+    background-color: white;
+    border-top: solid blue 5px !important;
+}
+
+
+.images{
+    display: inline-flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.fond_bleu{
+    color: white;
+    background-color: rgb(20, 20, 150);
+}
+
+.align1{
+    width: 50%;
+}
+
+.align2{
+    width: 50%;
+}
+
+.img-thumbnail{
+    border: rgb(2, 2, 124);
+}
+
+.icons_services{
+    width: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 0px !important;
+}
+
+.services{
+    background-color: rgb(241, 240, 240);;
+}
+
+.choose_us{
+    color: white;
+    background-color: rgb(20, 20, 150);
+    
+}
+
+.my-text-align-center{
+    text-align: center;
+    width: 400px;
+    margin: auto;
+    padding-bottom: 30px;
+}
+
+.btn-light{
+    color: rgb(23, 245, 245);
+}
+
+.wathié_ko{
+    padding-top: 50px;
+}
+
+
+
+.mine{
+ background-color: black; 
+ color: white;
+ padding-top: 0px !important;
+ 
+}
+
+.ms-3{
+    width: 10%;
+}
+
+.okm{
+    text-align: center;
+    padding-top: 15px;
+}
+
+
+.icon_rs{
+    margin-left: 450px;
+    padding-bottom: 100px;
+}
+
+
+
+
+
+
+
